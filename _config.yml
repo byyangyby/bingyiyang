@@ -5,8 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Bingyi
 last_name: Yang
-email: >
-  byyang[at]connect.hku.hk
+email: byyang[at]connect.hku.hk
 description: >
   Incoming Assistant Professor at the University of Macau.
   Working on infectious disease transmission modeling,
