@@ -17,7 +17,7 @@ footer_text: >
 keywords: infectious disease modeling, immune-dynamics, antigenicity, influenza, SARS-CoV-2
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 
-url: https://byyangyby.github.io  # ← your exact GitHub username
+url: https://bingyiyang.github.io  # ← your exact GitHub username
 baseurl: ""                         # ← must be empty quotes, not /al-folio
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -278,8 +278,12 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Yang]
+  first_name: [Bingyi, A.]
+  sort_by: year
+  order: descending
+  group_by: year
+  group_order: descending
 
   style: apa
   locale: en
