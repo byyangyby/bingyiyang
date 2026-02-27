@@ -2,6 +2,6 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: byyang@connect.hku.hk # your email address
-linkedin: bingyi-yang-b7355a23b # your LinkedIn user name
+linkedin_username: bingyi-yang-b7355a23b # your LinkedIn user name
 scholar_userid: 1IQInjgAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-0811-8332 # your ORCID ID
