@@ -1,28 +1,22 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Members of the lab
 nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+## Current Members
+
+- **Chang Liu**, PhD student (2023–present), primary supervisor
+- **Yifan Yin**, MPhil student (2024–present), primary supervisor
+- **Mingwei Li**, PhD student (2022–present), co-supervisor
+
+---
+
+## Alumni
+
+- **Yun Lin**, PhD (2021–2025), co-supervisor · Current postdoc at HKU
+- **Huizhi Gao**, PhD (2020–2024), co-supervisor · Current postdoc at PKU
+- **Yumeng Yang**, Research Assistant (2024–2025) · Current PhD student at CUHK(SZ)

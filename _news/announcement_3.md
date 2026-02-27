@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-02-10 12:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Congratulations to Chang Liu, PhD student, for being awarded the Leong Che-Hung Medical and Research Enrichment Scholarship of LKS Faculty of Medicine, HKU! :tada:
