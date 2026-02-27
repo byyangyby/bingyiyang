@@ -2,14 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught at HKU.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Course Coordinator and Lecturer
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+- **BBMS2011** Research Methods in Medicine and Health Sciences, HKU (2022–2025)
+- **BPHM1121** Research Methods in Pharmacy Practice, HKU (2022–2023)

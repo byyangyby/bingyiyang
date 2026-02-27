@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - byyangyby
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - byyangyby/influenza_A_cross-reactivity
+  - byyangyby/ct_rt_hk
+  - byyangyby/fractional_dose_review
+  - byyangyby/importation_risk
+  - UF-IDD/Fluscape_Periodicity
+  - UF-IDD/Fluscape_Paired_Serology
+  - UF-IDD/Modeling_Aedes_Florida
+  - UF-IDD/US_County_Rt
