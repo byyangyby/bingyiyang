@@ -63,66 +63,21 @@ ninja.data = [{
           description: "Influenza antibody dynamics, cross-reactivity, immune imprinting, and COVID-19 vaccine-induced immunity",
           section: "Projects",handler: () => {
               window.location.href = "/bingyiyang/projects/1_antibody_antigenic/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/bingyiyang/projects/1_project/";
             },},{id: "projects-ct-distribution-and-real-time-transmission-estimation",
           title: 'Ct Distribution and Real-Time Transmission Estimation',
           description: "Using population-level viral load distributions to estimate SARS-CoV-2 transmission dynamics in real time",
           section: "Projects",handler: () => {
               window.location.href = "/bingyiyang/projects/2_ct_distribution/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/bingyiyang/projects/2_project/";
             },},{id: "projects-covid-19-transmission-dynamics-and-intervention-effectiveness",
           title: 'COVID-19 Transmission Dynamics and Intervention Effectiveness',
           description: "Spatiotemporal models of SARS-CoV-2 spread and evaluation of non-pharmaceutical interventions",
           section: "Projects",handler: () => {
               window.location.href = "/bingyiyang/projects/3_covid_transmission/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/bingyiyang/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/bingyiyang/projects/4_project/";
             },},{id: "projects-travel-controls-amp-importation-risk",
           title: 'Travel Controls &amp;amp; Importation Risk',
           description: "Quantifying the effectiveness of border measures in delaying and reducing COVID-19 importation",
           section: "Projects",handler: () => {
               window.location.href = "/bingyiyang/projects/4_travel_control/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/bingyiyang/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/bingyiyang/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/bingyiyang/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/bingyiyang/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/bingyiyang/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
