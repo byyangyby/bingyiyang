@@ -2,7 +2,7 @@
 layout: page
 title: Travel Controls & Importation Risk
 description: Quantifying the effectiveness of border measures in delaying and reducing COVID-19 importation
-img: assets/img/proj_travel_placeholder.jpg
+img: assets/img/proj_travel.jpg
 importance: 4
 category: research
 ---
@@ -11,9 +11,7 @@ Evaluating the effectiveness of border control measures — travel restrictions,
 
 <div class="row justify-content-center mt-4 mb-4">
     <div class="col-sm-10">
-        <div class="placeholder-figure p-4 text-center border rounded" style="background:#f8f9fa; min-height:200px; display:flex; align-items:center; justify-content:center;">
-            <span class="text-muted">[Figure placeholder — replace with key figure from your work]</span>
-        </div>
+        {% include figure.liquid path="assets/img/proj_travel.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

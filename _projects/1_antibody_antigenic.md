@@ -2,7 +2,7 @@
 layout: page
 title: Antibody Responses & Antigenic Evolution
 description: Influenza antibody dynamics, cross-reactivity, immune imprinting, and COVID-19 vaccine-induced immunity
-img: assets/img/proj_antibody_placeholder.jpg
+img: assets/img/proj_antibody.jpg
 importance: 1
 category: research
 ---
@@ -11,9 +11,7 @@ How life course exposures shape antibody profiles and cross-reactive responses a
 
 <div class="row justify-content-center mt-4 mb-4">
     <div class="col-sm-10">
-        <div class="placeholder-figure p-4 text-center border rounded" style="background:#f8f9fa; min-height:200px; display:flex; align-items:center; justify-content:center;">
-            <span class="text-muted">[Figure placeholder — replace with key figure from your work]</span>
-        </div>
+        {% include figure.liquid path="assets/img/proj_antibody.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

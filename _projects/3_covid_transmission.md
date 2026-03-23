@@ -2,7 +2,7 @@
 layout: page
 title: COVID-19 Transmission Dynamics and Intervention Effectiveness
 description: Spatiotemporal models of SARS-CoV-2 spread and evaluation of non-pharmaceutical interventions
-img: assets/img/proj_covid_placeholder.jpg
+img: assets/img/proj_covid.jpg
 importance: 3
 category: research
 ---
@@ -11,9 +11,7 @@ Understanding how SARS-CoV-2 spreads through populations and how interventions m
 
 <div class="row justify-content-center mt-4 mb-4">
     <div class="col-sm-10">
-        <div class="placeholder-figure p-4 text-center border rounded" style="background:#f8f9fa; min-height:200px; display:flex; align-items:center; justify-content:center;">
-            <span class="text-muted">[Figure placeholder — replace with key figure from your work]</span>
-        </div>
+        {% include figure.liquid path="assets/img/proj_covid.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
