@@ -7,7 +7,7 @@ importance: 3
 category: research
 ---
 
-Understanding how SARS-CoV-2 spreads through populations and how interventions modify transmission. We apply spatiotemporal models and epidemiological surveillance data to evaluate the impact of specific non-pharmaceutical interventions across diverse settings and epidemic waves.
+What actually worked to slow SARS-CoV-2 spread? We built spatiotemporal models across US counties and Hong Kong epidemic waves to quantify the impact of specific non-pharmaceutical interventions, masking policies, and vaccination strategies on transmission and disease burden.
 
 <div class="row justify-content-center mt-4 mb-4">
     <div class="col-sm-10">

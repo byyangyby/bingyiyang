@@ -7,7 +7,7 @@ importance: 1
 category: research
 ---
 
-How life course exposures shape antibody profiles and cross-reactive responses across influenza subtypes, and how deep learning can reconstruct antigenic evolution from serological data. We also quantify how COVID-19 vaccine-induced immunity wanes over time, identify correlates of protection, and disentangle the effects of prior infection and antigenic drift on vaccine effectiveness.
+How do early-life infections imprint lifelong antibody profiles, and how does this shape cross-reactivity and susceptibility across influenza subtypes? We use longitudinal serological cohorts, Bayesian inference, and deep learning to map the co-evolution of host immunity and viral antigenicity. Tools: SeroMetrics (R package), transformer-based HAI titer prediction.
 
 <div class="row justify-content-center mt-4 mb-4">
     <div class="col-sm-10">

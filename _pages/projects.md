@@ -9,6 +9,10 @@ display_categories: [research]
 horizontal: false
 ---
 
+My research is organized around a central challenge: **understanding how the interplay between host immune dynamics and pathogen evolution drives epidemic patterns, and building the computational tools to track this in real time.**
+
+The first two themes below focus on the host-pathogen interface: how individual immune histories accumulate over a lifetime, how antibody landscapes shape cross-reactivity, and how pathogens evolve in response. The latter two themes focus on translating these insights into surveillance and policy: estimating transmission from novel data streams and evaluating interventions. Increasingly, we use AI/ML approaches to connect molecular-scale data with population-scale inference.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

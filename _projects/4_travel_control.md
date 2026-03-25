@@ -7,7 +7,7 @@ importance: 4
 category: research
 ---
 
-Evaluating the effectiveness of border control measures — travel restrictions, quarantine requirements, and targeted surveillance — in delaying and reducing importation of COVID-19. Our work quantifies the role of travel volume and control intensity in shaping importation risk, informing evidence-based border policy during pandemics.
+How effective are border measures, and can they be targeted by risk? We quantified importation risks from inbound travelers to Hong Kong and demonstrated that differentiated travel controls could achieve comparable protection with less disruption. This work was cited in US CDC and New Zealand Government reports.
 
 <div class="row justify-content-center mt-4 mb-4">
     <div class="col-sm-10">

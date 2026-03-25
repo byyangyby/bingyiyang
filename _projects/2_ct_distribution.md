@@ -7,7 +7,7 @@ importance: 2
 category: research
 ---
 
-Using population-level RT-qPCR cycle threshold (Ct) value distributions to estimate real-time transmission dynamics. We develop and generalise frameworks that incorporate viral load data to track SARS-CoV-2 transmission amid evolving variants and pre-existing immunity, accounting for surveillance heterogeneity and pathogen variability.
+Can population-level viral load distributions replace traditional case counts for real-time epidemic monitoring? We developed methods to estimate effective reproduction numbers (Rt) from PCR cycle threshold (Ct) distributions, enabling surveillance that is robust to changes in testing policy and behavior. These methods have been adopted for influenza surveillance applications.
 
 <div class="row justify-content-center mt-4 mb-4">
     <div class="col-sm-10">
