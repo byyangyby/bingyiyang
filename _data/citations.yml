@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-08'
 papers:
   1IQInjgAAAAJ:1sJd4Hv_s6UC:
     citations: 0
@@ -62,7 +62,7 @@ papers:
     title: 'A systematic review of antibody mediated immunity to coronaviruses: kinetics, correlates of protection, and association with severity'
     year: '2020'
   1IQInjgAAAAJ:LPZeul_q3PIC:
-    citations: 0
+    citations: 1
     title: "Comparative Analysis of Flight Volume Effects on COVID-19 and Influenza Transmission Across Variable Control Intensities, 2019\u20132024"
     year: '2025'
   1IQInjgAAAAJ:LkGwnXOMwfcC:
@@ -70,7 +70,7 @@ papers:
     title: Life course exposures continually shape antibody profiles and risk of seroconversion to influenza
     year: '2020'
   1IQInjgAAAAJ:O3NaXMp0MMsC:
-    citations: 23
+    citations: 24
     title: Effectiveness of international travel controls for delaying local outbreaks of COVID-19
     year: '2022'
   1IQInjgAAAAJ:P5F9QuxV20EC:
