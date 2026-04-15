@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-15'
 papers:
   1IQInjgAAAAJ:1sJd4Hv_s6UC:
     citations: 0
@@ -70,7 +70,7 @@ papers:
     title: Life course exposures continually shape antibody profiles and risk of seroconversion to influenza
     year: '2020'
   1IQInjgAAAAJ:O3NaXMp0MMsC:
-    citations: 24
+    citations: 23
     title: Effectiveness of international travel controls for delaying local outbreaks of COVID-19
     year: '2022'
   1IQInjgAAAAJ:P5F9QuxV20EC:
@@ -98,7 +98,7 @@ papers:
     title: Effectiveness of CoronaVac and BNT162b2 vaccine against SARS-CoV-2 Omicron BA. 2 infections in Hong Kong
     year: '2022'
   1IQInjgAAAAJ:TQgYirikUcIC:
-    citations: 49
+    citations: 50
     title: Modelling distributions of Aedes aegypti and Aedes albopictus using climate, host density and interspecies competition
     year: '2021'
   1IQInjgAAAAJ:Tiz5es2fbqcC:
@@ -130,7 +130,7 @@ papers:
     title: Impact of public health and social measures on hand-foot-mouth disease transmission and prediction of upcoming season after relaxation of COVID-19 control measures
     year: '2022'
   1IQInjgAAAAJ:_Qo2XoVZTnwC:
-    citations: 66
+    citations: 67
     title: 'Confidence, acceptance and willingness to pay for the COVID-19 vaccine among migrants in Shanghai, China: a cross-sectional study'
     year: '2021'
   1IQInjgAAAAJ:a0OBvERweLwC:
@@ -138,11 +138,11 @@ papers:
     title: Dynamics of Anti-influenza Mucosal IgA Over a Season in a Cohort of Individuals Living or Working in a Long-term Care Facility
     year: '2023'
   1IQInjgAAAAJ:abG-DnoFyZgC:
-    citations: 66
+    citations: 67
     title: 'Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study'
     year: '2024'
   1IQInjgAAAAJ:blknAaTinKkC:
-    citations: 56
+    citations: 55
     title: Pandemic fatigue impedes mitigation of COVID-19 in Hong Kong
     year: '2022'
   1IQInjgAAAAJ:cFHS6HbyZ2cC:
@@ -234,7 +234,7 @@ papers:
     title: Accuracy for key parameters in modelling study
     year: '2022'
   1IQInjgAAAAJ:xtRiw3GOFMkC:
-    citations: 17
+    citations: 18
     title: The need for a clinical case definition in test-negative design studies estimating vaccine effectiveness
     year: '2023'
   1IQInjgAAAAJ:zA6iFVUQeVQC:
@@ -242,6 +242,6 @@ papers:
     title: 'Prior infections and effectiveness of SARS-CoV-2 vaccine in test-negative studies: a systematic review and meta-analysis'
     year: '2024'
   1IQInjgAAAAJ:zYLM7Y9cAGgC:
-    citations: 143
+    citations: 144
     title: Epidemiology of hand, foot and mouth disease in China, 2008 to 2015 prior to the introduction of EV-A71 vaccine
     year: '2017'
