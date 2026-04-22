@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-22'
 papers:
   1IQInjgAAAAJ:1sJd4Hv_s6UC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Transmission of hand, foot and mouth disease and its potential driving factors in Hong Kong
     year: '2016'
   1IQInjgAAAAJ:4OULZ7Gr8RgC:
-    citations: 9
+    citations: 10
     title: 'Long term intrinsic cycling in human life course antibody responses to influenza A (H3N2): an observational and modeling study'
     year: '2022'
   1IQInjgAAAAJ:4fKUyHm3Qg0C:
@@ -54,11 +54,11 @@ papers:
     title: The usefulness of the test-positive proportion of severe acute respiratory syndrome coronavirus 2 as a surveillance tool
     year: '2021'
   1IQInjgAAAAJ:K3LRdlH-MEoC:
-    citations: 11
+    citations: 12
     title: Comparative duration of neutralizing responses and protections of COVID-19 vaccination and correlates of protection
     year: '2025'
   1IQInjgAAAAJ:L8Ckcad2t8MC:
-    citations: 1223
+    citations: 1227
     title: 'A systematic review of antibody mediated immunity to coronaviruses: kinetics, correlates of protection, and association with severity'
     year: '2020'
   1IQInjgAAAAJ:LPZeul_q3PIC:
@@ -66,15 +66,15 @@ papers:
     title: "Comparative Analysis of Flight Volume Effects on COVID-19 and Influenza Transmission Across Variable Control Intensities, 2019\u20132024"
     year: '2025'
   1IQInjgAAAAJ:LkGwnXOMwfcC:
-    citations: 30
+    citations: 31
     title: Life course exposures continually shape antibody profiles and risk of seroconversion to influenza
     year: '2020'
   1IQInjgAAAAJ:O3NaXMp0MMsC:
-    citations: 23
+    citations: 22
     title: Effectiveness of international travel controls for delaying local outbreaks of COVID-19
     year: '2022'
   1IQInjgAAAAJ:P5F9QuxV20EC:
-    citations: 26
+    citations: 27
     title: "Viral kinetics of SARS-CoV-2 following onset of COVID-19 in symptomatic patients infected with the ancestral strain and omicron BA. 2 in Hong Kong: a retrospective \u2026"
     year: '2023'
   1IQInjgAAAAJ:R3hNpaxXUhUC:
@@ -185,6 +185,10 @@ papers:
     citations: 32
     title: 'The differential importation risks of COVID-19 from inbound travellers and the feasibility of targeted travel controls: A case study in Hong Kong'
     year: '2021'
+  1IQInjgAAAAJ:kRWSkSYxWN8C:
+    citations: 0
+    title: Birth imprinting effects on the antibody responses of H7N9 patients from 2013-2018 in China
+    year: '2026'
   1IQInjgAAAAJ:lSLTfruPkqcC:
     citations: 16
     title: 'Immunogenicity, efficacy, and safety of SARS-CoV-2 vaccine dose fractionation: a systematic review and meta-analysis'
@@ -197,6 +201,10 @@ papers:
     citations: 14
     title: Using secondary cases to characterize the severity of an emerging or re-emerging infection
     year: '2021'
+  1IQInjgAAAAJ:mvPsJ3kp5DgC:
+    citations: 1
+    title: 'Measuring population immunity against influenza using individual antibody titres: a multicountry, retrospective observational study'
+    year: '2026'
   1IQInjgAAAAJ:qjMakFHDy7sC:
     citations: 1
     title: 'Correction: Routine Pediatric Enterovirus 71 Vaccination in China: a Cost-Effectiveness Analysis'
