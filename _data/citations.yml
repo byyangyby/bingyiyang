@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-01'
 papers:
   1IQInjgAAAAJ:1sJd4Hv_s6UC:
     citations: 0
@@ -54,7 +54,7 @@ papers:
     title: The usefulness of the test-positive proportion of severe acute respiratory syndrome coronavirus 2 as a surveillance tool
     year: '2021'
   1IQInjgAAAAJ:K3LRdlH-MEoC:
-    citations: 12
+    citations: 13
     title: Comparative duration of neutralizing responses and protections of COVID-19 vaccination and correlates of protection
     year: '2025'
   1IQInjgAAAAJ:L8Ckcad2t8MC:
@@ -74,7 +74,7 @@ papers:
     title: Effectiveness of international travel controls for delaying local outbreaks of COVID-19
     year: '2022'
   1IQInjgAAAAJ:P5F9QuxV20EC:
-    citations: 27
+    citations: 29
     title: "Viral kinetics of SARS-CoV-2 following onset of COVID-19 in symptomatic patients infected with the ancestral strain and omicron BA. 2 in Hong Kong: a retrospective \u2026"
     year: '2023'
   1IQInjgAAAAJ:R3hNpaxXUhUC:
@@ -82,7 +82,7 @@ papers:
     title: Risk for international importations of variant SARS-CoV-2 originating in the United Kingdom
     year: '2021'
   1IQInjgAAAAJ:RGFaLdJalmkC:
-    citations: 15
+    citations: 16
     title: 'Universal community nucleic acid testing for coronavirus disease 2019 (COVID-19) in Hong Kong reveals insights into transmission dynamics: a cross-sectional and modeling study'
     year: '2022'
   1IQInjgAAAAJ:RYcK_YlVTxYC:
@@ -118,7 +118,7 @@ papers:
     title: Evaluating the impact of extended dosing intervals on mRNA COVID-19 vaccine effectiveness in adolescents
     year: '2024'
   1IQInjgAAAAJ:XiSMed-E-HIC:
-    citations: 12
+    citations: 13
     title: Reconstructed influenza A/H3N2 infection histories reveal variation in incidence and antibody dynamics over the life course
     year: '2024'
   1IQInjgAAAAJ:Y0pCki6q_DkC:
@@ -154,11 +154,11 @@ papers:
     title: 'Seroprevalence of enterovirus 71 antibody among children in China: a systematic review and meta-analysis'
     year: '2015'
   1IQInjgAAAAJ:dfsIfKJdRG4C:
-    citations: 9
+    citations: 10
     title: 'Risk of within-hotel transmission of SARS-CoV-2 during on-arrival quarantine in Hong Kong: an epidemiological and phylogenomic investigation'
     year: '2023'
   1IQInjgAAAAJ:e5wmG9Sq2KIC:
-    citations: 21
+    citations: 22
     title: Periodic synchronisation of dengue epidemics in Thailand over the last 5 decades driven by temperature and immunity
     year: '2022'
   1IQInjgAAAAJ:eJXPG6dFmWUC:
@@ -234,7 +234,7 @@ papers:
     title: Community-Wide Interventions Minimize the Opportunity for Superspreading of Sars-Cov-2
     year: Unknown Year
   1IQInjgAAAAJ:ufrVoPGSRksC:
-    citations: 31
+    citations: 32
     title: 'An open source tool to infer epidemiological and immunological dynamics from serological data: serosolver'
     year: '2020'
   1IQInjgAAAAJ:vV6vV6tmYwMC:
@@ -250,6 +250,6 @@ papers:
     title: 'Prior infections and effectiveness of SARS-CoV-2 vaccine in test-negative studies: a systematic review and meta-analysis'
     year: '2024'
   1IQInjgAAAAJ:zYLM7Y9cAGgC:
-    citations: 144
+    citations: 145
     title: Epidemiology of hand, foot and mouth disease in China, 2008 to 2015 prior to the introduction of EV-A71 vaccine
     year: '2017'
