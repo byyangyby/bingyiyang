@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-15'
 papers:
   1IQInjgAAAAJ:1sJd4Hv_s6UC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Assessing the effectiveness of travel control measures in preventing imported COVID-19 cases reveals the critical role of travel volume
     year: '2025'
   1IQInjgAAAAJ:7PzlFSSx8tAC:
-    citations: 73
+    citations: 74
     title: Effect of specific non-pharmaceutical intervention policies on SARS-CoV-2 transmission in the counties of the United States
     year: '2021'
   1IQInjgAAAAJ:8AbLer7MMksC:
@@ -26,15 +26,15 @@ papers:
     title: Mapping antigenic evolution of influenza A virus using deep learning-based prediction of hemagglutination inhibition titers
     year: '2025'
   1IQInjgAAAAJ:9yKSN-GCB0IC:
-    citations: 90
+    citations: 92
     title: Preliminary epidemiologic assessment of human infections with highly pathogenic avian influenza A (H5N6) virus, China
     year: '2017'
   1IQInjgAAAAJ:B3FOqHPlNUQC:
-    citations: 0
+    citations: 1
     title: 'Generalizing population RT-qPCR cycle threshold values-informed estimation of epidemiological dynamics: Impact of surveillance practices and pathogen variability'
     year: '2025'
   1IQInjgAAAAJ:BqipwSGYUEgC:
-    citations: 33
+    citations: 35
     title: Incorporating temporal distribution of population-level viral load enables real-time estimation of COVID-19 transmission
     year: '2022'
   1IQInjgAAAAJ:CHSYGLWDkRkC:
@@ -46,7 +46,7 @@ papers:
     title: Optimizing global genomic surveillance for early detection of emerging SARS-CoV-2 variants
     year: '2026'
   1IQInjgAAAAJ:HoB7MX3m0LUC:
-    citations: 11
+    citations: 13
     title: The effect of variation of individual infectiousness on SARS-CoV-2 transmission in households
     year: '2023'
   1IQInjgAAAAJ:JV2RwH3_ST0C:
@@ -70,11 +70,11 @@ papers:
     title: Life course exposures continually shape antibody profiles and risk of seroconversion to influenza
     year: '2020'
   1IQInjgAAAAJ:O3NaXMp0MMsC:
-    citations: 22
+    citations: 23
     title: Effectiveness of international travel controls for delaying local outbreaks of COVID-19
     year: '2022'
   1IQInjgAAAAJ:P5F9QuxV20EC:
-    citations: 29
+    citations: 30
     title: "Viral kinetics of SARS-CoV-2 following onset of COVID-19 in symptomatic patients infected with the ancestral strain and omicron BA. 2 in Hong Kong: a retrospective \u2026"
     year: '2023'
   1IQInjgAAAAJ:R3hNpaxXUhUC:
@@ -82,7 +82,7 @@ papers:
     title: Risk for international importations of variant SARS-CoV-2 originating in the United Kingdom
     year: '2021'
   1IQInjgAAAAJ:RGFaLdJalmkC:
-    citations: 16
+    citations: 17
     title: 'Universal community nucleic acid testing for coronavirus disease 2019 (COVID-19) in Hong Kong reveals insights into transmission dynamics: a cross-sectional and modeling study'
     year: '2022'
   1IQInjgAAAAJ:RYcK_YlVTxYC:
@@ -98,7 +98,7 @@ papers:
     title: Effectiveness of CoronaVac and BNT162b2 vaccine against SARS-CoV-2 Omicron BA. 2 infections in Hong Kong
     year: '2022'
   1IQInjgAAAAJ:TQgYirikUcIC:
-    citations: 50
+    citations: 51
     title: Modelling distributions of Aedes aegypti and Aedes albopictus using climate, host density and interspecies competition
     year: '2021'
   1IQInjgAAAAJ:Tiz5es2fbqcC:
@@ -106,7 +106,7 @@ papers:
     title: Effective real-time transmission estimations incorporating population viral load distributions amid SARS-CoV-2 variants and preexisting immunity
     year: '2025'
   1IQInjgAAAAJ:Tyk-4Ss8FVUC:
-    citations: 98
+    citations: 99
     title: "Emerging Enteroviruses Causing Hand, Foot and Mouth Disease, China, 2010\u20132016"
     year: '2018'
   1IQInjgAAAAJ:UeHWp8X0CEIC:
@@ -130,15 +130,15 @@ papers:
     title: Impact of public health and social measures on hand-foot-mouth disease transmission and prediction of upcoming season after relaxation of COVID-19 control measures
     year: '2022'
   1IQInjgAAAAJ:_Qo2XoVZTnwC:
-    citations: 67
+    citations: 68
     title: 'Confidence, acceptance and willingness to pay for the COVID-19 vaccine among migrants in Shanghai, China: a cross-sectional study'
     year: '2021'
   1IQInjgAAAAJ:a0OBvERweLwC:
-    citations: 3
+    citations: 4
     title: Dynamics of Anti-influenza Mucosal IgA Over a Season in a Cohort of Individuals Living or Working in a Long-term Care Facility
     year: '2023'
   1IQInjgAAAAJ:abG-DnoFyZgC:
-    citations: 67
+    citations: 68
     title: 'Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study'
     year: '2024'
   1IQInjgAAAAJ:blknAaTinKkC:
@@ -158,7 +158,7 @@ papers:
     title: 'Risk of within-hotel transmission of SARS-CoV-2 during on-arrival quarantine in Hong Kong: an epidemiological and phylogenomic investigation'
     year: '2023'
   1IQInjgAAAAJ:e5wmG9Sq2KIC:
-    citations: 22
+    citations: 24
     title: Periodic synchronisation of dengue epidemics in Thailand over the last 5 decades driven by temperature and immunity
     year: '2022'
   1IQInjgAAAAJ:eJXPG6dFmWUC:
@@ -182,7 +182,7 @@ papers:
     title: A Framework for Measuring Population Immunity Against Influenza Using Individual Antibody Titers
     year: '2025'
   1IQInjgAAAAJ:hMod-77fHWUC:
-    citations: 32
+    citations: 33
     title: 'The differential importation risks of COVID-19 from inbound travellers and the feasibility of targeted travel controls: A case study in Hong Kong'
     year: '2021'
   1IQInjgAAAAJ:kRWSkSYxWN8C:
@@ -250,6 +250,6 @@ papers:
     title: 'Prior infections and effectiveness of SARS-CoV-2 vaccine in test-negative studies: a systematic review and meta-analysis'
     year: '2024'
   1IQInjgAAAAJ:zYLM7Y9cAGgC:
-    citations: 145
+    citations: 146
     title: Epidemiology of hand, foot and mouth disease in China, 2008 to 2015 prior to the introduction of EV-A71 vaccine
     year: '2017'
