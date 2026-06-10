@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-10'
 papers:
+  1IQInjgAAAAJ:1qzjygNMrQYC:
+    citations: 0
+    title: Association of public health and social measures with vaccine effectiveness
+    year: '2026'
   1IQInjgAAAAJ:1sJd4Hv_s6UC:
     citations: 0
     title: 'Limited impact of lifting universal masks on SARS-CoV-2 transmission in schools: The crucial role of outcome measurements'
@@ -18,7 +22,7 @@ papers:
     title: Assessing the effectiveness of travel control measures in preventing imported COVID-19 cases reveals the critical role of travel volume
     year: '2025'
   1IQInjgAAAAJ:7PzlFSSx8tAC:
-    citations: 74
+    citations: 75
     title: Effect of specific non-pharmaceutical intervention policies on SARS-CoV-2 transmission in the counties of the United States
     year: '2021'
   1IQInjgAAAAJ:8AbLer7MMksC:
@@ -54,11 +58,11 @@ papers:
     title: The usefulness of the test-positive proportion of severe acute respiratory syndrome coronavirus 2 as a surveillance tool
     year: '2021'
   1IQInjgAAAAJ:K3LRdlH-MEoC:
-    citations: 13
+    citations: 14
     title: Comparative duration of neutralizing responses and protections of COVID-19 vaccination and correlates of protection
     year: '2025'
   1IQInjgAAAAJ:L8Ckcad2t8MC:
-    citations: 1228
+    citations: 1232
     title: 'A systematic review of antibody mediated immunity to coronaviruses: kinetics, correlates of protection, and association with severity'
     year: '2020'
   1IQInjgAAAAJ:LPZeul_q3PIC:
@@ -66,15 +70,15 @@ papers:
     title: "Comparative Analysis of Flight Volume Effects on COVID-19 and Influenza Transmission Across Variable Control Intensities, 2019\u20132024"
     year: '2026'
   1IQInjgAAAAJ:LkGwnXOMwfcC:
-    citations: 31
+    citations: 32
     title: Life course exposures continually shape antibody profiles and risk of seroconversion to influenza
     year: '2020'
   1IQInjgAAAAJ:O3NaXMp0MMsC:
-    citations: 23
+    citations: 22
     title: Effectiveness of international travel controls for delaying local outbreaks of COVID-19
     year: '2022'
   1IQInjgAAAAJ:P5F9QuxV20EC:
-    citations: 30
+    citations: 31
     title: "Viral kinetics of SARS-CoV-2 following onset of COVID-19 in symptomatic patients infected with the ancestral strain and omicron BA. 2 in Hong Kong: a retrospective \u2026"
     year: '2023'
   1IQInjgAAAAJ:R3hNpaxXUhUC:
@@ -82,7 +86,7 @@ papers:
     title: Risk for international importations of variant SARS-CoV-2 originating in the United Kingdom
     year: '2021'
   1IQInjgAAAAJ:RGFaLdJalmkC:
-    citations: 17
+    citations: 18
     title: 'Universal community nucleic acid testing for coronavirus disease 2019 (COVID-19) in Hong Kong reveals insights into transmission dynamics: a cross-sectional and modeling study'
     year: '2022'
   1IQInjgAAAAJ:RYcK_YlVTxYC:
@@ -94,11 +98,11 @@ papers:
     title: "Using serological measures to estimate influenza incidence in the presence of secular trends in exposure and immuno\u2010modulation of antibody response"
     year: '2021'
   1IQInjgAAAAJ:SeFeTyx0c_EC:
-    citations: 24
+    citations: 25
     title: Effectiveness of CoronaVac and BNT162b2 vaccine against SARS-CoV-2 Omicron BA. 2 infections in Hong Kong
     year: '2022'
   1IQInjgAAAAJ:TQgYirikUcIC:
-    citations: 51
+    citations: 53
     title: Modelling distributions of Aedes aegypti and Aedes albopictus using climate, host density and interspecies competition
     year: '2021'
   1IQInjgAAAAJ:Tiz5es2fbqcC:
@@ -106,15 +110,19 @@ papers:
     title: Effective real-time transmission estimations incorporating population viral load distributions amid SARS-CoV-2 variants and preexisting immunity
     year: '2025'
   1IQInjgAAAAJ:Tyk-4Ss8FVUC:
-    citations: 99
+    citations: 100
     title: "Emerging Enteroviruses Causing Hand, Foot and Mouth Disease, China, 2010\u20132016"
     year: '2018'
   1IQInjgAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Transmission dynamics of hand, foot and mouth disease in China.
     year: '2017'
+  1IQInjgAAAAJ:V3AGJWp-ZtQC:
+    citations: 0
+    title: '" Association of public health and social measures on the hand-foot-mouth epidemic in South Korea"(vol 16, pg 859, 2023)'
+    year: '2023'
   1IQInjgAAAAJ:WbkHhVStYXYC:
-    citations: 4
+    citations: 5
     title: Evaluating the impact of extended dosing intervals on mRNA COVID-19 vaccine effectiveness in adolescents
     year: '2024'
   1IQInjgAAAAJ:XiSMed-E-HIC:
@@ -138,11 +146,11 @@ papers:
     title: Dynamics of Anti-influenza Mucosal IgA Over a Season in a Cohort of Individuals Living or Working in a Long-term Care Facility
     year: '2023'
   1IQInjgAAAAJ:abG-DnoFyZgC:
-    citations: 68
+    citations: 71
     title: 'Comparison of control and transmission of COVID-19 across epidemic waves in Hong Kong: an observational study'
     year: '2024'
   1IQInjgAAAAJ:blknAaTinKkC:
-    citations: 55
+    citations: 56
     title: Pandemic fatigue impedes mitigation of COVID-19 in Hong Kong
     year: '2022'
   1IQInjgAAAAJ:cFHS6HbyZ2cC:
@@ -154,7 +162,7 @@ papers:
     title: 'Seroprevalence of enterovirus 71 antibody among children in China: a systematic review and meta-analysis'
     year: '2015'
   1IQInjgAAAAJ:dfsIfKJdRG4C:
-    citations: 10
+    citations: 11
     title: 'Risk of within-hotel transmission of SARS-CoV-2 during on-arrival quarantine in Hong Kong: an epidemiological and phylogenomic investigation'
     year: '2023'
   1IQInjgAAAAJ:e5wmG9Sq2KIC:
@@ -165,10 +173,6 @@ papers:
     citations: 0
     title: 'Cost-Effectiveness Analysis of a Bivalent Vaccine for Hand, Foot, and Mouth Disease: A Simulation-Based Study in Beijing, China'
     year: '2026'
-  1IQInjgAAAAJ:eflP2zaiRacC:
-    citations: 0
-    title: '" Association of public health and social measures on the hand-foot-mouth epidemic in South Korea"(vol 16, pg 859, 2023)'
-    year: '2023'
   1IQInjgAAAAJ:fQNAKQ3IYiAC:
     citations: 0
     title: Assessing evidence of immune imprinting in serological patterns of influenza immune response
@@ -190,7 +194,7 @@ papers:
     title: Birth imprinting effects on the antibody responses of H7N9 patients from 2013-2018 in China
     year: '2026'
   1IQInjgAAAAJ:lSLTfruPkqcC:
-    citations: 16
+    citations: 17
     title: 'Immunogenicity, efficacy, and safety of SARS-CoV-2 vaccine dose fractionation: a systematic review and meta-analysis'
     year: '2022'
   1IQInjgAAAAJ:mB3voiENLucC:
@@ -242,11 +246,11 @@ papers:
     title: Accuracy for key parameters in modelling study
     year: '2022'
   1IQInjgAAAAJ:xtRiw3GOFMkC:
-    citations: 18
+    citations: 19
     title: The need for a clinical case definition in test-negative design studies estimating vaccine effectiveness
     year: '2023'
   1IQInjgAAAAJ:zA6iFVUQeVQC:
-    citations: 21
+    citations: 24
     title: 'Prior infections and effectiveness of SARS-CoV-2 vaccine in test-negative studies: a systematic review and meta-analysis'
     year: '2024'
   1IQInjgAAAAJ:zYLM7Y9cAGgC:
