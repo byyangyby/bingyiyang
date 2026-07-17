@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-17'
 papers:
   1IQInjgAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -62,11 +62,11 @@ papers:
     title: The usefulness of the test-positive proportion of severe acute respiratory syndrome coronavirus 2 as a surveillance tool
     year: '2021'
   1IQInjgAAAAJ:K3LRdlH-MEoC:
-    citations: 15
+    citations: 16
     title: Comparative duration of neutralizing responses and protections of COVID-19 vaccination and correlates of protection
     year: '2025'
   1IQInjgAAAAJ:L8Ckcad2t8MC:
-    citations: 1237
+    citations: 1236
     title: 'A systematic review of antibody mediated immunity to coronaviruses: kinetics, correlates of protection, and association with severity'
     year: '2020'
   1IQInjgAAAAJ:LPZeul_q3PIC:
@@ -218,7 +218,7 @@ papers:
     title: 'Correction: Routine Pediatric Enterovirus 71 Vaccination in China: a Cost-Effectiveness Analysis'
     year: '2016'
   1IQInjgAAAAJ:rO6llkc54NcC:
-    citations: 4
+    citations: 5
     title: Residential Clustering of Coronavirus Disease 2019 Cases and Efficiency of Building-Wide Compulsory Testing Notices as a Transmission Control Measure in Hong Kong
     year: '2023'
   1IQInjgAAAAJ:sSrBHYA8nusC:
